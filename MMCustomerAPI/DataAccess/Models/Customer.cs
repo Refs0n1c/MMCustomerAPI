@@ -4,6 +4,7 @@ namespace DataAccess;
 
 public class Customer
 {
+    [Key]
     public int Id { get; set; }
     [Required]
     public string Title { get; set; }
@@ -15,5 +16,7 @@ public class Customer
     public string EmailAddress { get; set; }
     [Required]
     public string MobileNo { get; set; }
+    [Required]
+    public bool IsActive { get; set; }
     public ICollection<Address> Addresses { get; set; }
 }
