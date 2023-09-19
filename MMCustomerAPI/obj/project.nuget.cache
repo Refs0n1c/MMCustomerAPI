@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0RomcFuulCrdoiKezgj224/MbJ5gNPZg03ia52fN144nBaH5/v+ulnWxWlzEaLjXxUDs7gw5jrjhSpmvYMMl2g==",
+  "dgSpecHash": "a0pIKu0x/kx1ovlyB6Vsa3RuJFi1SjFmUqG70So/pS9pgmTcmu13R/9FevVxkh2V8Zgs9QzhKohKkos+Ru9HsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Documents\\Code\\MMCustomerAPI\\MMCustomerAPI\\MMCustomerAPI.csproj",
+  "projectFilePath": "c:\\Users\\danie\\Documents\\Code\\MMCustomerAPI\\MMCustomerAPI\\MMCustomerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
